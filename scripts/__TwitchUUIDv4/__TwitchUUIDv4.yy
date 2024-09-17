@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"__TwitchUUIDv4",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"__TwitchUUIDv4",
+  "parent":{
+    "name":"Twitch",
+    "path":"folders/Twitch.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

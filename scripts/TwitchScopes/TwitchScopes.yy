@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"TwitchScopes",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"TwitchScopes",
+  "parent":{
+    "name":"Twitch",
+    "path":"folders/Twitch.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

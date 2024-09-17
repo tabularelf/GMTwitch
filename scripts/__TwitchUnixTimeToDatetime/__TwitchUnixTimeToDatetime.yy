@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"__TwitchUnixTimeToDatetime",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"__TwitchUnixTimeToDatetime",
+  "parent":{
+    "name":"Twitch",
+    "path":"folders/Twitch.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

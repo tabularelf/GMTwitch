@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"__TwitchNetworkList",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"__TwitchNetworkList",
+  "parent":{
+    "name":"Twitch",
+    "path":"folders/Twitch.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

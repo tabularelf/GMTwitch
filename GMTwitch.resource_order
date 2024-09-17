@@ -1,0 +1,25 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Objects","order":1,"path":"folders/Objects.yy",},
+    {"name":"Scripts","order":2,"path":"folders/Scripts.yy",},
+    {"name":"Twitch","order":3,"path":"folders/Twitch.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"obj_tester","order":1,"path":"objects/obj_tester/obj_tester.yy",},
+    {"name":"obj_twitch","order":2,"path":"objects/obj_twitch/obj_twitch.yy",},
+    {"name":"rm_init","order":4,"path":"rooms/rm_init/rm_init.yy",},
+    {"name":"__TwitchNetworkList","order":1,"path":"scripts/__TwitchNetworkList/__TwitchNetworkList.yy",},
+    {"name":"__TwitchPubSubClass","order":7,"path":"scripts/__TwitchPubSubClass/__TwitchPubSubClass.yy",},
+    {"name":"__TwitchUnixTimeToDatetime","order":2,"path":"scripts/__TwitchUnixTimeToDatetime/__TwitchUnixTimeToDatetime.yy",},
+    {"name":"__TwitchUUIDv4","order":6,"path":"scripts/__TwitchUUIDv4/__TwitchUUIDv4.yy",},
+    {"name":"array_helpers","order":1,"path":"scripts/array_helpers/array_helpers.yy",},
+    {"name":"form_data","order":2,"path":"scripts/form_data/form_data.yy",},
+    {"name":"http","order":3,"path":"scripts/http/http.yy",},
+    {"name":"string_helpers","order":4,"path":"scripts/string_helpers/string_helpers.yy",},
+    {"name":"struct_helpers","order":5,"path":"scripts/struct_helpers/struct_helpers.yy",},
+    {"name":"twitch_api","order":6,"path":"scripts/twitch_api/twitch_api.yy",},
+    {"name":"TwitchColors","order":3,"path":"scripts/TwitchColors/TwitchColors.yy",},
+    {"name":"TwitchPubSubs","order":4,"path":"scripts/TwitchPubSubs/TwitchPubSubs.yy",},
+    {"name":"TwitchScopes","order":5,"path":"scripts/TwitchScopes/TwitchScopes.yy",},
+  ],
+}

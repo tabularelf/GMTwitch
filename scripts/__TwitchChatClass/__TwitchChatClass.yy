@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"__TwitchChatClass",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"__TwitchChatClass",
+  "parent":{
+    "name":"Twitch",
+    "path":"folders/Twitch.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
